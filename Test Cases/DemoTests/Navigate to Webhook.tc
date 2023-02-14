@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Navigate to Webhook</name>
+   <tag>@smoke</tag>
+   <comment></comment>
+   <testCaseGuid>8df4cf80-c430-4570-8e83-0efa91acaf03</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6cb58fed-f535-4983-8098-4be410ee4587</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'yuliia.hnidan@caspio.com'</defaultValue>
+      <description></description>
+      <id>6cb58fed-f535-4983-8098-4be410ee4587</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>
