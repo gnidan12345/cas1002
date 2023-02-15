@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite</name>
+   <name>New Test Suite Webhook</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient>yuliia.hnidan@caspio.com;</mailRecipient>
-   <numberOfRerun>2</numberOfRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>94d67c74-b8ed-4129-abca-e7d77cf48481</testSuiteGuid>
+   <testSuiteGuid>ebe8e257-e875-4738-aa01-c2442d299d79</testSuiteGuid>
    <testCaseLink>
-      <guid>37998b1d-90d0-4573-a9a5-be7ca49bed48</guid>
+      <guid>a2a2310a-26dd-4884-98bd-281d8778356e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/DemoTests/Navigate to Webhook</testCaseId>
